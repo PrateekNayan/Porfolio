@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Prateek Nayan",
+    "occupation":"The University of Texas at Dallas",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"To give you a brief overview of my skill set, I have work experience of 3.7 years with Neudesic as a Consultant. During this tenure, I have worked in multiple roles - Mobile application developer, Pseudo Product owner, Automation Quality Analyst and Manual Quality Analyst. Having hands on experience in entire Software Development Lifecycle, from development to delivery of products; eventually sparked my interest in product management. Along with my technical skills, I realized it was time to broaden my knowledge base in the product management field. So, I decided to come to the Land of the free and Home of the brave to accomplish my passion!",
+    "contactmessage":"Project Management and Technical skills",
+    "email":"Prateek.Nayan@utdallas.edu",
+    "phone": "(469)-473-0987",
+    "address":{
+      "street":"7421 Frankford Rd",
+      "city":"Dallas",
+      "state":"Texas",
+      "zip": "75252"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/prateek.nayan",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/prateek_nayan",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/prateeknayan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nayan._.07/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PrateekNayan",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"PROJECT MANAGEMENT AND TECHNICAL SKILLS :",
+    "education":[
+      {
+        "school":"The University of Texas at Dallas",
+        "degree":"Masters in Information Technology and Management",
+        "graduated":"December 2021",
+        "description":"• Business Analytics with R  • Statistics and Data Analysis • Marketing Management • Advance Business Analytics with R • System Analysis and Project Management • Big Data • Accounting for Managers •Applied ML "
+      }, 
+      {
+        "school":"Visvesvaraya Institute of Technology",
+        "degree":"Information Science and Engineering",
+        "graduated":"May 2016",
+        "description":"Completed my bachelor's degree in computer science and management. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Agile",
+        "level":"95%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"75%"
+      },
+      {
+        "name":"Azure DevOps",
+        "level":"90%"
+      },
+      {
+        "name":"R",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      },
+      {
+        "name":"UI/UX",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gender Recognition", 
+        "category":"Automatic Gender Recognition using digital footprints",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://github.com/PrateekNayan/Automatic-Gender-Recognition-based-on-digital-pattern"
+      },
+      {
+        "title":"Diabetic Prediction",
+        "category":"Prdeicting Diabetes based on medical history",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://github.com/PrateekNayan/Diabetic-Prediction"
+      },
+      {
+        "title":"IMDB",
+        "category":"Shiny App predicting the movie rating",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/PrateekNayan/-IMDB-5000-Movie-Dataset"
+      },
+      {
+        "title":"Marketing Management",
+        "category":"Planned product launch after considering the target,segmentation and cost",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Women's murder data",
+        "category":"Conducted time series forecasting to choose appropriate ARIMA model, created plots of series to forecast",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/PrateekNayan/Women-murders-data-"
+      },
+	{
+        "title":"Chicago crime rate",
+        "category":"Plotted bar charts and heatmap after Exploratory Data Analysis to gain data insights, showing correlation between crime type and time at which the crime was committed ",
+        "image":"chicago.jpg",
+        "url":"https://github.com/PrateekNayan/Chicago-Crime-Rate"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+ {
+        "text":"Prateek has joined Neudesic as part of college hire program. Some of the good quality about him are: He is confident; Willing to take things head-on; Committed; Hard working and Honest.I have worked with him on couple of instances and what was most liked by me is, you don't need to follow up with him. He will own the things and keep you posted. Also if he has to learn something, he will find his ways out, he might come to you but mostly to validate if he is on the right path. All in all, i would say he is a good responsible consultant that I had opportunity to work with. Best of Luck to Prateek! ",
+        "user":"Basant Patwari, VP of Consulting Services at Neudesic"
+      },
+      {
+        "text":"I have mentored Prateek before he took his first project. What sets him apart is his ability to listen and ask the right questions. He was able to demonstrate that he can learn on his own and deliver as well. He is a good thinker and knows how to think in a given situation. With this kind of mindset, he can turn around the situation. I wish him good luck with everything he does in future",
+        "user":"Sumit Gupta"
+      }    
+    ]
+  }
+}
